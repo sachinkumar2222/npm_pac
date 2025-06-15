@@ -1,5 +1,5 @@
 {
-  "name": "@sparky/validator-lite",
+  "name": "@sparky002/validator-lite",
   "version": "1.0.0",
   "description": "A tiny, dependency-free JavaScript validation library for email, phone, URL, password, PAN, PIN, IP, UUID, and more.",
   "main": "index.js",

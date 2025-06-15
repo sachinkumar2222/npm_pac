@@ -30,4 +30,4 @@ Quickly validate emails, URLs, phone numbers, passwords, PAN, PIN codes, UUIDs, 
 ## 📦 Installation
 
 ```bash
-npm install @sparky/validator-lite
+npm install @sparky002/validator-lite
