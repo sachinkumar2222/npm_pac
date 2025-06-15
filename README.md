@@ -1,4 +1,4 @@
-# @sparky/validator-lite
+# @sparky002/validator-lite
 
 A lightweight, zero-dependency JavaScript validation library for modern web and Node.js applications.  
 Quickly validate emails, URLs, phone numbers, passwords, PAN, PIN codes, UUIDs, IP addresses, and more — all in one tiny utility.
